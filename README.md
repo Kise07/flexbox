@@ -1,3 +1,3 @@
 # flexbox Reference Project!
 
-[Flexbox.pdf](https://github.com/Kise07/flexbox/files/8291569/Flexbox.pdf)
+![Flexbox](https://user-images.githubusercontent.com/73417521/158889851-13aab3af-7627-4535-b99c-5deb30e763aa.png)
